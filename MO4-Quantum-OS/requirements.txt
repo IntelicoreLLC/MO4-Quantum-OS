@@ -1,0 +1,54 @@
+# MO4 Quantum Operating System - Requirements
+# Core quantum computing dependencies
+
+# Quantum Computing Framework
+qiskit>=0.45.0
+qiskit-ibm-runtime>=0.15.0
+qiskit-ibm-provider>=0.7.0
+qiskit-aer>=0.13.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.6.0
+pandas>=1.5.0
+
+# Data Analysis & Visualization
+seaborn>=0.12.0
+plotly>=5.15.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Mathematical Libraries
+sympy>=1.12
+networkx>=3.0
+
+# File I/O & Data Handling
+h5py>=3.8.0
+jsonschema>=4.17.0
+
+# Progress Bars & Utilities
+tqdm>=4.65.0
+click>=8.1.0
+
+# Testing & Development
+pytest>=7.2.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: Advanced Quantum Libraries
+# cirq>=1.2.0                    # Google Quantum AI
+# pytket>=1.20.0                 # Cambridge Quantum Computing
+# pennylane>=0.32.0              # Xanadu Quantum ML
+
+# Optional: High-Performance Computing
+# mpi4py>=3.1.0                  # MPI parallel computing
+# dask>=2023.1.0                 # Distributed computing
+
+# Documentation
+sphinx>=6.0.0
+sphinx-rtd-theme>=1.2.0
+
+# Version Management
+setuptools>=65.0.0
+wheel>=0.38.0
