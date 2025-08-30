@@ -53,7 +53,7 @@ All Rights Reserved
 MO4 Quantum Operating System
 Michael Andrew Bettag, Intelicore LLC (2024)
 Academic Research License
-https://github.com/[username]/MO4-Quantum-OS
+https://github.com/IntelicoreLLC/MO4-Quantum-OS
 ```
 
 **For Academic Papers**: Use the BibTeX citation provided in CITATION.md
@@ -75,7 +75,7 @@ https://github.com/[username]/MO4-Quantum-OS
 ### **DATA SHARING**
 - Experimental data available for academic validation
 - Replication studies encouraged with proper citation
-- Raw data requests: contact mbettag@intelicore.com
+- Raw data requests: contact Intelicorellc@gmail.com
 - Statistical analysis collaboration welcome
 
 ---
@@ -83,7 +83,7 @@ https://github.com/[username]/MO4-Quantum-OS
 ## COMMERCIAL LICENSING
 
 ### **INTERESTED IN COMMERCIAL USE?**
-Contact: **mbettag@intelicore.com**
+Contact: **Intelicorellc@gmail.com**
 
 Available licensing options:
 - **Technology Transfer**: University partnerships
@@ -137,21 +137,18 @@ This license may be updated to:
 
 ## JURISDICTION
 
-This license is governed by the laws of [Your State/Country]. Any disputes shall be resolved in the courts of [Your Jurisdiction].
+This license is governed by the laws of [Kentucky/United States]. Any disputes shall be resolved in the courts of [Your Jurisdiction].
 
 ---
 
 ## CONTACT INFORMATION
 
-**License Questions**: mbettag@intelicore.com  
-**Commercial Licensing**: mbettag@intelicore.com  
-**Academic Collaboration**: mbettag@intelicore.com  
+**License Questions**: Intelicorellc@gmail.com  
+**Commercial Licensing**: Intelicorellc@gmail.com  
+**Academic Collaboration**: Intelicorellc@gmail.com  
 **Technical Support**: GitHub Issues
 
 **Intelicore LLC**  
-[Your Address]  
-[City, State, ZIP]  
-[Phone Number]
 
 ---
 
