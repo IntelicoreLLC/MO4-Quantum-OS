@@ -1,2 +1,2 @@
-# Magnum-Opus-4.0
+# MO4-Quantum-OS
 Quantum Operating System
