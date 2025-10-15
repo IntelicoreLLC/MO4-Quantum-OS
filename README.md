@@ -161,7 +161,7 @@ Matplotlib >= 3.4.0 (for visualization)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/[username]/MO4-Quantum-OS
+git clone https://github.com/[Intelicorellc]/MO4-Quantum-OS
 cd MO4-Quantum-OS
 ```
 
@@ -453,7 +453,7 @@ See `CONTRIBUTING.md` for complete guidelines.
   author={Bettag, Michael Andrew},
   organization={Intelicore LLC},
   year={2024},
-  url={https://github.com/[username]/MO4-Quantum-OS}
+  url={https://github.com/Intelicorellc/MO4-Quantum-OS}
 }
 ```
 
